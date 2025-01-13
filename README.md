@@ -1,10 +1,9 @@
 ## Hi there 👋
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+[![Header]()]()
 
 ##### Hi, I'm SMAHI Mohammed:
-
+Software Engineer
 - 🎓Graduate network Software from University Of Tlemcen 2018
-- :test_tube: 
 - :speech_balloon: Ask me about software for windows , application android, or literally anything!
 - :mailbox: You can reach me with the links below
 
