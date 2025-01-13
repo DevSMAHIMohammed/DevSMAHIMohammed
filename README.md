@@ -1,7 +1,4 @@
-## Hi there 👋
-
-
-##### Hi, I'm SMAHI Mohammed:
+## Hi, I'm SMAHI Mohammed 👋
 Software Engineer
 - 🎓Graduate network Software from University Of Tlemcen 2018
 - :speech_balloon: Ask me about software for windows , application android, or literally anything!
