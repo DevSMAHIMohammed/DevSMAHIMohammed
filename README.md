@@ -10,7 +10,7 @@ Software Engineer
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smahimohammed94@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://dz.linkedin.com/in/smahi-mohamed-450242151)
-[![SMAHIMohammed.com]()]()
+
 
 ##### Languages I use
 
