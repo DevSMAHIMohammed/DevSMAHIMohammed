@@ -18,7 +18,7 @@ Software Engineer
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![Nest](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![react](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![react](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql](https://docs.nestjs.com/assets/logo-small-gradient.svg)
 
 ##### Some of the technologies I have worked with
 
