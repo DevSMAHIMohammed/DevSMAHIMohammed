@@ -21,12 +21,10 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DevSMAHIMohammed&theme=dark&hide_border=true&fire=DD2727)
 
 #### 📊 GitHub Stats Card
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-#### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSMAHIMohammed&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-#### 📅 Contribution Graph 2024-2026
+
 ```mermaid
 graph LR
     A[2024] --> B[Current Streak]
