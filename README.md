@@ -25,13 +25,4 @@
 
 
 
-```mermaid
-graph LR
-    A[2024] --> B[Current Streak]
-    B --> C[2025 Goals]
-    C --> D[2026 Targets]
-    
-    style A fill:#2E4053,stroke:#333,stroke-width:2px
-    style B fill:#27AE60,stroke:#333,stroke-width:2px
-    style C fill:#3498DB,stroke:#333,stroke-width:2px
-    style D fill:#E74C3C,stroke:#333,stroke-width:2px
+
