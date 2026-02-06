@@ -25,4 +25,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed&hide=contribs,prs)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed&commits_year=2026)
+
 
