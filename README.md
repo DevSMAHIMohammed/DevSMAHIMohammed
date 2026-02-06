@@ -26,27 +26,3 @@
 #### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSMAHIMohammed&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
-### 📅 2026 Activity Plan
-
-```mermaid
-timeline
-    title 2026 Development Roadmap
-    section Q1 : Backend Focus
-        Jan : NestJS Advanced Patterns
-        Feb : Microservices Architecture
-        Mar : Database Optimization
-    
-    section Q2 : Full Stack
-        Apr : React + TypeScript
-        May : State Management
-        Jun : API Integration
-    
-    section Q3 : DevOps
-        Jul : Docker & Kubernetes
-        Aug : CI/CD Pipelines
-        Sep : Cloud Deployment
-    
-    section Q4 : Open Source
-        Oct : Contribute to OSS
-        Nov : Personal Projects
-        Dec : Year Review & Planning
