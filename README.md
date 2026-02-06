@@ -18,7 +18,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=DevSMAHIMohammed&theme=onedark&row=2&column=3&no-frame=true)
 
 #### 📈 GitHub Streak Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed&show_icons=true)
 
 #### 📊 GitHub Stats Card
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed)](https://github.com/DevSMAHIMohammed)
