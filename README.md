@@ -23,6 +23,6 @@
 #### 📊 GitHub Stats Card
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed)](https://github.com/DevSMAHIMohammed)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed&hide=contribs,prs)
 
 
