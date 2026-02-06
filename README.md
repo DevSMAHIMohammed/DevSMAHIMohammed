@@ -20,8 +20,10 @@
 #### 📈 GitHub Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DevSMAHIMohammed&theme=dark&hide_border=true&fire=DD2727)
 
+
 #### 📊 GitHub Stats Card
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed)](https://github.com/DevSMAHIMohammed)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed&show_icons=true&theme=tokyonight)](https://github.com/DevSMAHIMohammed)
+
 
 
 
