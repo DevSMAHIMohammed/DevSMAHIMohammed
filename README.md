@@ -12,6 +12,23 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smahimohammed94@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://dz.linkedin.com/in/smahi-mohamed-450242151)
 
+### 📊 GitHub Stats & Activity
+
+#### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=DevSMAHIMohammed&theme=onedark&row=2&column=3&no-frame=true)
+
+#### 📈 GitHub Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=DevSMAHIMohammed&theme=dark&hide_border=true&fire=DD2727)
+
+#### 📊 GitHub Stats Card
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+#### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSMAHIMohammed&layout=compact&theme=dark&hide_border=true&langs_count=8)
+
+#### 📅 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevSMAHIMohammed&theme=github-dark&hide_border=true&area=true)
+
 ### Technologies & Skills
 
 #### Languages
@@ -37,17 +54,40 @@
 #### Networking
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-0066CC?style=for-the-badge&logo=cisco&logoColor=white)
 
-### Favorite Open Source Projects
-[![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=for-the-badge&logo=bitwarden&logoColor=white)](https://github.com/bitwarden)
-[![Dark Reader](https://img.shields.io/badge/Dark_Reader-2f7485?style=for-the-badge&logo=dark-reader&logoColor=white)](https://github.com/darkreader/darkreader)
-[![uBlock Origin](https://img.shields.io/badge/uBlock_Origin-800000?style=for-the-badge&logo=ublock-origin&logoColor=white)](https://github.com/gorhill/uBlock)
-[![MEGA](https://img.shields.io/badge/MEGA-D9272E?style=for-the-badge&logo=mega&logoColor=white)](https://github.com/meganz/)
-[![Tor](https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=tor&logoColor=white)](https://www.torproject.org/)
+### 🗓️ 2026 GitHub Activity Preview
+| Month | Contributions | Focus Area |
+|-------|--------------|------------|
+| January | ⭐⭐⭐⭐ | Backend Development |
+| February | ⭐⭐⭐⭐⭐ | Full Stack Projects |
+| March | ⭐⭐⭐⭐ | API Development |
+| April | ⭐⭐⭐⭐⭐ | Open Source Contributions |
+| May | ⭐⭐⭐⭐ | System Design |
+| June | ⭐⭐⭐⭐⭐ | DevOps & CI/CD |
+| July | ⭐⭐⭐⭐ | Cloud Architecture |
+| August | ⭐⭐⭐⭐⭐ | Mobile Development |
+| September | ⭐⭐⭐⭐ | Performance Optimization |
+| October | ⭐⭐⭐⭐⭐ | Security & Testing |
+| November | ⭐⭐⭐⭐ | Documentation & Mentoring |
+| December | ⭐⭐⭐⭐⭐ | Year-End Projects |
 
-### ⚡ Fun Fact
-I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
-
----
-
-⭐️ From [SMAHI Mohammed](https://github.com/DevSMAHIMohammed)
+### 📈 Projected Growth 2026
+```mermaid
+gantt
+    title 2026 Development Roadmap
+    dateFormat  YYYY-MM
+    section Backend
+    NestJS Projects        :2026-01, 4M
+    API Development        :2026-03, 3M
+    Database Optimization  :2026-06, 2M
+    
+    section Frontend
+    React Applications     :2026-02, 5M
+    UI/UX Design           :2026-04, 3M
+    
+    section DevOps
+    CI/CD Pipeline         :2026-05, 4M
+    Cloud Deployment       :2026-08, 3M
+    
+    section Learning
+    New Frameworks         :2026-07, 6M
+    Certifications         :2026-10, 2M
