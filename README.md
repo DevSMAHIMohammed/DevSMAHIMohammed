@@ -21,7 +21,7 @@
 ![GitHub Streak](https://camo.githubusercontent.com/0de589fe8b9642ebbf78d0c402f5626f3a00a16d2dc05ad612a34886278e942a/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d446576534d4148494d6f68616d6d6564267468656d653d6461726b26686964655f626f726465723d7472756526666972653d444432373237)
 
 #### 📊 GitHub Stats Card
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed&show_icons=true&theme=tokyonight)](https://github.com/DevSMAHIMohammed)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed&show_icons=true&theme=radical)
 
 
 #### 💻 Most Used Languages
