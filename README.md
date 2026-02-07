@@ -72,13 +72,13 @@ Here are some ideas to get you started:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevSMAHIMohammed&theme=radical&hide_border=true)
 
 #### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=DevSMAHIMohammed&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSMAHIMohammed&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 #### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevSMAHIMohammed&theme=dark&no-frame=true&row=2&column=4)
 
 #### 📊 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevSMAHIMohammed&theme=dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevSMAHIMohammed&theme=react-dark&hide_border=true)
 
 </div>
 
