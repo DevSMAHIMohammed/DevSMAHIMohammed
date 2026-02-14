@@ -77,7 +77,8 @@ Here are some ideas to get you started:
 </p>
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DevSMAHIMohammed&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=DevSMAHIMohammed&color=blue)
+
 
 
 
