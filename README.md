@@ -78,7 +78,8 @@ Here are some ideas to get you started:
 
 
 #### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevSMAHIMohammed&theme=radical&no-frame=true&row=2&column=4)
+<img src="https://github-profile-trophy.vercel.app/?username=DevSMAHIMohammed&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+
 
 
 #### 📊 GitHub Activity Graph
