@@ -19,14 +19,27 @@
 
 ---
 
-### 💻 Languages
+### 💻 Languages & Frameworks
 
 ![C](https://img.shields.io/badge/-C-222222?style=flat&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-222222?style=flat&logo=c%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-222222?style=flat&logo=java&logoColor=007396)
+![VB.NET](https://img.shields.io/badge/-VB.NET-222222?style=flat&logo=dotnet&logoColor=512BD4)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript&logoColor=F7DF1E)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5&logoColor=E34F26)
-![SQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql&logoColor=4169E1)
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=css3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-222222?style=flat&logo=tailwind-css&logoColor=06B6D4)
+
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-222222?style=flat&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-222222?style=flat&logo=nestjs&logoColor=E0234E)
+
+![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter&logoColor=02569B)
+![MATLAB](https://img.shields.io/badge/-MATLAB-222222?style=flat&logo=mathworks&logoColor=FF6F00)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql&logoColor=4169E1)
+
 
 ---
 
