@@ -66,7 +66,8 @@ Here are some ideas to get you started:
 <div align="center">
   
 #### 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/?user=DevSMAHIMohammed&hide=contribs,prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSMAHIMohammed&show_icons=true&theme=tokyonight&hide=contribs,prs&hide_border=true)
+
 
 #### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevSMAHIMohammed&theme=radical&hide_border=true)
