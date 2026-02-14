@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 </p>
 
 
-#### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=DevSMAHIMohammed&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
+![GitHub Streak](https://streak-stats.demolab.com?user=DevSMAHIMohammed&theme=tokyonight)
+
 
 
 
