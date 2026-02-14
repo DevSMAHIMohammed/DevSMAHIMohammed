@@ -82,10 +82,6 @@ Here are some ideas to get you started:
 ![Profile Views](https://komarev.com/ghpvc/?username=DevSMAHIMohammed&color=blue)
 
 
-
-
-
-#### 📊 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevSMAHIMohammed&theme=react-dark&hide_border=true)
 
 </div>
