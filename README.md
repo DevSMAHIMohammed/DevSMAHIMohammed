@@ -23,7 +23,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://dz.linkedin.com/in/smahi-mohamed-450242151)
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://web.facebook.com/smahi.mohammed.938742])([https://web.facebook.com/smahi.mohammed.938742])
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://web.facebook.com/smahi.mohammed.938742])
 
 
 ---
