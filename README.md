@@ -38,7 +38,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-222222?style=flat&logo=flutter&logoColor=02569B)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-222222?style=flat&logo=mathworks&logoColor=FF6F00)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-222222?style=flat&logo=postgresql&logoColor=4169E1)
+
 
 
 ---
