@@ -58,7 +58,7 @@
 <div align="center">
 
 ### 📈 GitHub Stats
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevSMAHIMohammed&show_icons=true&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevSMAHIMohammed&show_icons=true&theme=radical&hide_border=true" />
 
 ### 🔥 GitHub Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevSMAHIMohammed&theme=radical&hide_border=true" />
